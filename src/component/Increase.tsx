@@ -13,7 +13,7 @@ const Increase: React.FC = (props) => {
             <Button onClick={clickMeLess} >Less</Button>
             <div>{countClick}</div>
         </React.Fragment>
-    );c
+    );
 };
 
 export default Increase;
