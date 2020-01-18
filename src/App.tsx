@@ -8,6 +8,9 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <NavBar/>
+      <div>
+          push
+      </div>
       <Increase/>
     </div>
   );
